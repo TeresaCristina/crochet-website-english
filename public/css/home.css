@@ -1,0 +1,14 @@
+.section-container {
+    padding-top: 40px;
+    margin: 0;
+    display: grid;
+    grid-auto-rows: minmax(125px, auto);
+    grid-gap: 15px;
+}
+
+
+@media screen and (min-width: 950px) {
+    .section-container {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
