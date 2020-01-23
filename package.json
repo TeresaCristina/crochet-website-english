@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "This is a personal page ideail for arts and crfats",
   "engines": {
-    "node": "13.6.0",
-    "npm": "6.13.6"
+    "node": "13.6.0"
   },
   "main": "index.js",
   "scripts": {
